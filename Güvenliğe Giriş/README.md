@@ -2,18 +2,18 @@
 
 ######## Takip Ettiğim Bloglar
 
- -- mehmetince.net
- -- mazlumagar.com
- -- onaymetinkivilcim.com
- -- mertsarica.com
- -- halitalptekin.com
- -- ferdogan.net
- -- bilgiguvenligi.gov.tr
- -- blog.bga.com.tr
+ 1. mehmetince.net
+ 2. mazlumagar.com
+ 3. onaymetinkivilcim.com
+ 4. mertsarica.com
+ 5. halitalptekin.com
+ 6. ferdogan.net
+ 7. bilgiguvenligi.gov.tr
+ 8. blog.bga.com.tr
 
  
 
 ######## Haber Siteleri
 
- -- thehackernews.com
- -- siberbulten.com 
+ 1. thehackernews.com
+ 2. siberbulten.com 
