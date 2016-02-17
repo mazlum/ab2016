@@ -4,7 +4,7 @@
 
 1. Mazlum Ağar - http://mazlumagar.com
 2. Besim Altınok - http://besimaltinok.com
-3. Hasan Emre Özer -
+3. Hasan Emre Özer - http://hasanemreozer.com
 4. Fatih Erdoğan - http://ferdogan.net
 5. Mustafa Altınkaynak - http://mustafa.com.tr
 6. Deniz Parlak - http://denizparlak.com
